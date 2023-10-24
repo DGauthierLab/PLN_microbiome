@@ -17,9 +17,9 @@ library(googlesheets4)
 
 ```{r Am network}
 
-abundance<-read_sheet("https://docs.google.com/spreadsheets/d/120PG7RZufx3aKSijSOKWAMKIstlERbL9ryG98aCj4RM/edit?usp=sharing", sheet = "reads_top12_positives", col_names = TRUE) %>%
+abundance<-read_sheet("https://docs.google.com/spreadsheets/d/120PG7RZufx3aKSijSOKWAMKIstlERbL9ryG98aCj4RM/edit?usp=sharing", sheet = "sum_prev_top50_tp", col_names = TRUE) %>%
   rename(id = index)
-
+  
 metadata <- read_csv("metadata_test.csv")
 
 
