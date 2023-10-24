@@ -5,8 +5,8 @@ C-RR229204301-7,wild caught RR,RR,female,Rp-,4.355382455
 C-RR229204301-9,wild caught RR,RR,female,Rp-,6.042737463
 C-RR229204301-8,wild caught RR,RR,female,Rp+,4.973602082
 C-CV128204301,wild caught CV,CV,male,Rp+,1.599076328
-C-CV126204401-6,wild caught CV,CV,male,Rp+,0.7229693148
-C-CV126204301-4,wild caught CV,CV,female,Rp+,0.2123046558
+C-CV126204401-6,wild caught CV,CV,male,Rp+,0.722969315
+C-CV126204301-4,wild caught CV,CV,female,Rp+,0.212304656
 C-CV128204401-2,wild caught CV,CV,male,Rp+,3.074310921
 C-RR231204301-4,wild caught RR,RR,female,Rp-,5.87993927
 C-BISB137204301,wild caught SB,SB,female,Rp-,7.020440403
@@ -18,7 +18,7 @@ C-BISB129204302-4,wild caught SB,SB,female,Rp+,0.942363173
 C-CV134204401,wild caught CV,CV,male,Rp+,4.052127053
 C-CV126204301-1,wild caught CV,CV,female,Rp+,5.406710446
 C-RR325204301-1,wild caught RR,RR,female,Rp-,4.8317451
-C-BISB229204301,wild caught SB,SB,female,Rp+,0.8727885188
+C-BISB229204301,wild caught SB,SB,female,Rp+,0.872788519
 C-BISB129204401-5,wild caught SB,SB,male,Rp-,4.420888233
 C-BISB129204302-2,wild caught SB,SB,female,Rp+,3.194050587
 C-RR225204301-7,wild caught RR,RR,female,Rp+,5.095914643
@@ -27,12 +27,12 @@ C-BISB134204401,wild caught SB,SB,male,Rp-,5.954133076
 C-RR229204301-3,wild caught RR,RR,female,Rp+,1.66523011
 C-RR225204301-3,wild caught RR,RR,female,Rp+,2.660178503
 C-RR234204401-3,wild caught RR,RR,male,Rp-,4.021498276
-C-RR225204301-6,wild caught RR,RR,female,Rp+,0.1391806857
-C-CV126204301-3,wild caught CV,CV,female,Rp+,0.5158127495
-C-RR225204301-5,wild caught RR,RR,female,Rp+,0.1383429668
+C-RR225204301-6,wild caught RR,RR,female,Rp+,0.139180686
+C-CV126204301-3,wild caught CV,CV,female,Rp+,0.51581275
+C-RR225204301-5,wild caught RR,RR,female,Rp+,0.138342967
 C-RR225204301-4,wild caught RR,RR,female,Rp-,5.7150428
 C-CV128204401-1,wild caught CV,CV,male,Rp+,1.801752472
-C-CV126204301-2,wild caught CV,CV,female,Rp+,0.7733543665
+C-CV126204301-2,wild caught CV,CV,female,Rp+,0.773354367
 C-RR225204301-1,wild caught RR,RR,female,Rp-,5.253285746
 C-RR225204301-11,wild caught RR,RR,female,Rp-,4.832580075
 C-RR225204301-9,wild caught RR,RR,female,Rp-,4.576925719
@@ -43,13 +43,13 @@ C-RR234204401-2,wild caught RR,RR,male,Rp+,5.451033306
 C-CV126204401-2,wild caught CV,CV,male,Rp-,3.394606386
 C-RR225204301-8,wild caught RR,RR,female,Rp-,4.473117178
 C-RR229204301-4,wild caught RR,RR,female,Rp+,4.14832523
-C-CV126204401-3,wild caught CV,CV,male,Rp+,0.3963924737
+C-CV126204401-3,wild caught CV,CV,male,Rp+,0.396392474
 C-RR229204401-2,wild caught RR,RR,male,Rp-,5.465030332
-C-CV126204401-5,wild caught CV,CV,male,Rp+,0.3573369785
+C-CV126204401-5,wild caught CV,CV,male,Rp+,0.357336979
 C-CV126204401-7,wild caught CV,CV,male,Rp-,6.393203713
 C-BISB129204301-1,wild caught SB,SB,female,Rp+,4.341976129
 C-CV124204301-1,wild caught CV,CV,female,Rp+,2.393254809
-C-CV126204401-4,wild caught CV,CV,male,Rp+,0.8643159039
+C-CV126204401-4,wild caught CV,CV,male,Rp+,0.864315904
 C-RR229204401-9,wild caught RR,RR,male,Rp-,5.10675318
 C-RR229204401-1,wild caught RR,RR,male,Rp+,4.831658032
 C-RR229204301-5,wild caught RR,RR,female,Rp+,4.68000104
@@ -68,22 +68,26 @@ C-RR229204401-8,wild caught RR,RR,male,Rp-,6.192201437
 C-RR229204401-3,wild caught RR,RR,male,Rp-,5.332931766
 C-BISB129204302-3,wild caught SB,SB,female,Rp+,5.855536177
 C-RR231204401-2,wild caught RR,RR,male,Rp+,6.145845417
-C-RR225204301-10,wild caught RR,RR,female,Rp+,0.8987730142
+C-RR225204301-10,wild caught RR,RR,female,Rp+,0.898773014
 C-BISB129204302-11,wild caught SB,SB,female,Rp+,3.586205566
 C-RR231204301-3,wild caught RR,RR,female,Rp-,6.18101034
 C-CV122204401-2,wild caught CV,CV,male,Rp+,6.472873721
 C-RR225204301-2,wild caught RR,RR,female,Rp+,4.334947322
 C-CV132204301-2,wild caught CV,CV,female,Rp+,2.528364833
-C-CV125204301,wild caught CV,CV,female,Rp+,0.6630509148
+C-CV125204301,wild caught CV,CV,female,Rp+,0.663050915
 C-RR234204401-1,wild caught RR,RR,male,Rp-,5.640583691
 C-CV132204401,wild caught CV,CV,male,Rp+,2.267497058
-C-CV122204401-3,wild caught CV,CV,male,Rp+,0.5614116196
+C-CV122204401-3,wild caught CV,CV,male,Rp+,0.56141162
 C-BISB129204401-3,wild caught SB,SB,male,Rp+,3.33992541
 C-BISB124204401,wild caught SB,SB,male,Rp+,2.514893369
 C-BISB129204302-10,wild caught SB,SB,female,Rp-,4.869213793
 C-CV124204301-4,wild caught CV,CV,female,Rp+,5.672101667
-C-CV123204401,wild caught CV,CV,male,Rp+,0.7093002581
+C-CV123204401,wild caught CV,CV,male,Rp+,0.709300258
 C-CV28204401-1,wild caught CV,CV,male,Rp+,5.889650035
 C-CV132204301-1,wild caught CV,CV,female,Rp+,2.231150844
 C-CVX28194301-3,wild caught CV,CV,female,Rp+,5.13370951
-C-RR229204301-6,wild caught RR,RR,female,Rp+,0.7819266155
+C-RR229204301-6,wild caught RR,RR,female,Rp+,0.781926616
+C-MCS-1,,control,control,control,
+C-MCS-2,,control,control,control,
+C-NTC-1,,control,control,control,
+C-NTC-2,,control,control,control,
